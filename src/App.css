@@ -31,6 +31,7 @@
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
+  padding-bottom: 0em;
   transition: opacity 0.05s ease;
   Align-Items: center;
   Justify-Content: center;
@@ -52,7 +53,7 @@
 
 .social {
   display: flex;
-  padding-bottom: 0em;
+  padding-bottom: 10em;
 }
 
 .social a {
@@ -93,7 +94,7 @@
 .content .title-holder h1 {
   font-weight: bold;
   font-size: 70px;
-  margin-bottom: 12px;
+  margin-bottom: 19px;
 }
 
 .content .title-holder p {
@@ -131,7 +132,7 @@
 .footer {
   display: flex;
   flex-direction: row;
-  padding: 48px;
+  padding: 70px;
   justify-content: center;
   color: #fff;
   font-size: 14px;

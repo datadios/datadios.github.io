@@ -15,15 +15,19 @@ class App extends React.Component {
           <img src={image} alt="Not found" height={100} className="center"/>
           </div>    
         </div>
+        <br></br><br></br>
         <div className="content">
           <div className="title-holder">
             <h1>Great things coming <pre>soon.</pre></h1>
+            <br></br>
             <h2>A Data Team with big Ideas</h2>
           </div>
+          <br></br>
           <a href="mailto:thedatastartup@gmail.com">
             <div className="cta">Contact Us</div>
           </a>
         </div>
+        <br></br>
         <div className="footer">
           <div className="social">
             <a href="https://www.linkedin.com/" title="Linkedin" target="_blank" rel="noopener noreferrer">
