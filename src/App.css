@@ -24,7 +24,7 @@
   padding: 30px;
   justify-content: space-between;
   align-items: center;
-  color: #FFD700;
+  color: #E0C56E;
 }
 
 .logo {
@@ -34,7 +34,7 @@
   transition: opacity 0.05s ease;
   Align-Items: center;
   Justify-Content: center;
-  width: 650px; 
+  width: 350px; 
 }
 
 .center{
@@ -52,6 +52,7 @@
 
 .social {
   display: flex;
+  padding-bottom: 0em;
 }
 
 .social a {
@@ -69,8 +70,8 @@
 }
 
 .social .icon {
-  width: 35px;
-  fill: #DAA520;
+  width: 45px;
+  fill: #E0C56E;
 }
 
 .content {
@@ -83,9 +84,9 @@
 }
 
 .content .title-holder {
-  color: #DAA520;
+  color: #E0C56E;
   text-align: center;
-  margin-bottom: 24px;
+  margin-bottom: 25px;
   font-size: large;
 }
 
@@ -99,7 +100,7 @@
   font-size: 16px;
   line-height: 28px;
   font-weight: 500;
-  color: rgb(255,215,0);
+  color: rgb(224, 197, 110);
 }
 
 @media screen and (max-width: 768px) {
@@ -111,7 +112,7 @@
 .content .cta {
   min-width: 64px;
   padding: 16px 24px;
-  background: #DAA520;
+  background: #E0C56E;
   border-radius: 50px;
   cursor: pointer;
   text-align: center;

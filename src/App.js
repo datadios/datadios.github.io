@@ -1,5 +1,5 @@
 import React from 'react';
-import { ReactComponent as IconFacebook } from './assets/icons/facebook.svg';
+import { ReactComponent as  IconLinkedin} from './assets/icons/linkedin.svg';
 import { ReactComponent as IconTwitter } from './assets/icons/twitter.svg';
 import { ReactComponent as IconGithub } from './assets/icons/github.svg';
 import "./App.css";
@@ -18,19 +18,19 @@ class App extends React.Component {
         <div className="content">
           <div className="title-holder">
             <h1>Great things coming <pre>soon.</pre></h1>
-            <h2>We are a small and growing data firm with big ideas.</h2>
+            <h2>A Data Team with big Ideas</h2>
           </div>
           <a href="mailto:thedatastartup@gmail.com">
-            <div className="cta">Send us an email</div>
+            <div className="cta">Contact Us</div>
           </a>
         </div>
         <div className="footer">
           <div className="social">
-            <a href="https://facebook.com" title="Facebook" target="_blank" rel="noopener noreferrer">
-              <IconFacebook className="icon" />
-            </a>
+            <a href="https://www.linkedin.com/" title="Linkedin" target="_blank" rel="noopener noreferrer">
+            <IconLinkedin className="icon" aria-hidden="true" />
+             </a>
             <a href="https://twitter.com" title="Twitter" target="_blank" rel="noopener noreferrer">
-              <IconTwitter className="icon" />
+              <IconTwitter className="icon" aria-hidden="true" />
             </a>
             <a href="https://github.com/datadios/datadios_website_frontend" title="GitHub" target="_blank" rel="noopener noreferrer">
               <IconGithub className="icon" />
