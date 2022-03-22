@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/datadios_website_frontend/static/css/main.db866845.css",
-    "main.js": "/datadios_website_frontend/static/js/main.dce63b22.js",
-    "static/media/IBMPlexSans-MediumItalic.ttf": "/datadios_website_frontend/static/media/IBMPlexSans-MediumItalic.b5d2aae060bd17a44e92.ttf",
-    "static/media/IBMPlexSans-BoldItalic.ttf": "/datadios_website_frontend/static/media/IBMPlexSans-BoldItalic.2154ceb10b0ff9a38ed6.ttf",
-    "static/media/IBMPlexSans-Italic.ttf": "/datadios_website_frontend/static/media/IBMPlexSans-Italic.3c841fd3d99ee585c6cd.ttf",
-    "static/media/IBMPlexSans-Medium.ttf": "/datadios_website_frontend/static/media/IBMPlexSans-Medium.e1777542474b207f1248.ttf",
-    "static/media/IBMPlexSans-Regular.ttf": "/datadios_website_frontend/static/media/IBMPlexSans-Regular.0519459d8ed646e0f90d.ttf",
-    "static/media/IBMPlexSans-Bold.ttf": "/datadios_website_frontend/static/media/IBMPlexSans-Bold.c6aebfe2ea10a16d4a22.ttf",
-    "static/media/datadios_logo.png": "/datadios_website_frontend/static/media/datadios_logo.dd88fccd60ae445f677d.png",
-    "static/media/github.svg": "/datadios_website_frontend/static/media/github.0cbd66d999737e5f7b16c61e1cf574dd.svg",
-    "static/media/twitter.svg": "/datadios_website_frontend/static/media/twitter.e7d4a49da775003f36c09c6f96394e29.svg",
-    "index.html": "/datadios_website_frontend/index.html",
-    "static/media/linkedin.svg": "/datadios_website_frontend/static/media/linkedin.f2d0966dad50f869853c3e6d57d34e38.svg",
-    "main.db866845.css.map": "/datadios_website_frontend/static/css/main.db866845.css.map",
-    "main.dce63b22.js.map": "/datadios_website_frontend/static/js/main.dce63b22.js.map"
+    "main.css": "/static/css/main.cddc9b7d.css",
+    "main.js": "/static/js/main.272f07a4.js",
+    "static/media/IBMPlexSans-MediumItalic.ttf": "/static/media/IBMPlexSans-MediumItalic.b5d2aae060bd17a44e92.ttf",
+    "static/media/IBMPlexSans-BoldItalic.ttf": "/static/media/IBMPlexSans-BoldItalic.2154ceb10b0ff9a38ed6.ttf",
+    "static/media/IBMPlexSans-Italic.ttf": "/static/media/IBMPlexSans-Italic.3c841fd3d99ee585c6cd.ttf",
+    "static/media/IBMPlexSans-Medium.ttf": "/static/media/IBMPlexSans-Medium.e1777542474b207f1248.ttf",
+    "static/media/IBMPlexSans-Regular.ttf": "/static/media/IBMPlexSans-Regular.0519459d8ed646e0f90d.ttf",
+    "static/media/IBMPlexSans-Bold.ttf": "/static/media/IBMPlexSans-Bold.c6aebfe2ea10a16d4a22.ttf",
+    "static/media/datadios_logo.png": "/static/media/datadios_logo.dd88fccd60ae445f677d.png",
+    "static/media/github.svg": "/static/media/github.0cbd66d999737e5f7b16c61e1cf574dd.svg",
+    "static/media/twitter.svg": "/static/media/twitter.e7d4a49da775003f36c09c6f96394e29.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.f2d0966dad50f869853c3e6d57d34e38.svg",
+    "main.cddc9b7d.css.map": "/static/css/main.cddc9b7d.css.map",
+    "main.272f07a4.js.map": "/static/js/main.272f07a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.db866845.css",
-    "static/js/main.dce63b22.js"
+    "static/css/main.cddc9b7d.css",
+    "static/js/main.272f07a4.js"
   ]
 }
