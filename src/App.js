@@ -15,28 +15,27 @@ class App extends React.Component {
           <img src={image} alt="Not found" height={100} className="center"/>
           </div>    
         </div>
-        <br></br><br></br>
+        <br></br><br></br><br></br>
         <div className="content">
           <div className="title-holder">
             <h1>Great things coming <pre>soon.</pre></h1>
             <br></br>
             <h2>A Data Team with big Ideas</h2>
           </div>
-          <br></br>
           <a href="mailto:thedatastartup@gmail.com">
             <div className="cta">Contact Us</div>
           </a>
         </div>
-        <br></br>
+        <br></br><br></br><br></br>
         <div className="footer">
           <div className="social">
-            <a href="https://www.linkedin.com/" title="Linkedin" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/company/datadios/about/" title="Linkedin" target="_blank" rel="noopener noreferrer">
             <IconLinkedin className="icon" aria-hidden="true" />
              </a>
             <a href="https://twitter.com" title="Twitter" target="_blank" rel="noopener noreferrer">
               <IconTwitter className="icon" aria-hidden="true" />
             </a>
-            <a href="https://github.com/datadios/datadios_website_frontend" title="GitHub" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/" title="GitHub" target="_blank" rel="noopener noreferrer">
               <IconGithub className="icon" />
             </a>
           </div>        
